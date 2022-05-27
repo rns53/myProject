@@ -1,0 +1,2 @@
+# myProject
+Understanding Git Process
