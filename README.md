@@ -1,4 +1,4 @@
 # myProject
 Understanding Git Process
 Learing to navigate GitHub
-Understanding the various componets.
+Understanding the various components.
